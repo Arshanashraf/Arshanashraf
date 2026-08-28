@@ -250,13 +250,8 @@ I enjoy building complete products — from frontend interfaces and backend APIs
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Arshanashraf&theme=tokyo-night&hide_border=true&area=true"
-  width="100%"
-  alt="Arshan's GitHub Activity Graph"
-/>
+[![Arshan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arshanashraf&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Arshanashraf)
 
-</div> 
 
 ---
 
