@@ -246,15 +246,6 @@ I enjoy building complete products — from frontend interfaces and backend APIs
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-[![Arshan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arshanashraf&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Arshanashraf)
-
-
----
-
 # 🐍 My Contribution Snake
 
 <div align="center">
